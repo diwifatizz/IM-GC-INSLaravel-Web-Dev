@@ -1,14 +1,14 @@
 @extends ('template.master')
 
 @section ('container')
-
+<h3>User</h3>
 <table class="table table-bordered table-striped">
     <thead>
-        <tr style="background-color: azure">
-            <th style="text-align:center; font-weight:bold">No</th>
-            <th style="text-align:center; font-weight:bold">Nama</th>
-            <th style="text-align:center; font-weight:bold">Email</th>
-            <th style="text-align:center; font-weight:bold">Password</th>
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Email</th>
+            <th>Password</th>
         </tr>
     </thead>
     <tbody>

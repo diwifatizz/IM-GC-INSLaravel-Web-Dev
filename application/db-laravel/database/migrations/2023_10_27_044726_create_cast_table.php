@@ -15,6 +15,7 @@ return new class extends Migration
             $table->bigIncrements('id');
             $table->string('nama',45);
             $table->integer('umur');
+            $table->string('image')->nullable();
             $table->text('bio');
         });
 

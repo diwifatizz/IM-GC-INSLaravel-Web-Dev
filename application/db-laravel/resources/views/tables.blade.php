@@ -1,6 +1,7 @@
 @extends('template.master')
 
 @section('container')
+<h3>Progress Table</h3>
 <table class="table table-bordered">
     <thead>
         <tr>

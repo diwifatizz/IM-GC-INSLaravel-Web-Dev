@@ -1,6 +1,7 @@
 @extends ('template.master')
 
 @section ('container')
+<h3>Contact Us</h3>
 <div class="box_style_1">
     <div class="indent_title_in">
         <i class="icon-contacts"></i>

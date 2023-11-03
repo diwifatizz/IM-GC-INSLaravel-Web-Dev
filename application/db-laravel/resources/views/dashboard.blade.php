@@ -61,5 +61,15 @@
       <!-- /.info-box -->
     </div>
     <!-- /.col -->
-  </div>
+
+    
+        <!-- /. tools -->
+      </div>
+      <!-- /.card-header -->
+      <div class="card-body pt-0">
+    </div>
+      </div>
+      <!-- /.card-body -->
+    </div>
+  
   @endsection
